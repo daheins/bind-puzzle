@@ -45,7 +45,10 @@ public class Level : MonoBehaviour
             Instantiate(wallPrefab, new Vector3(0, y, 0), Quaternion.identity, wallParent);
             Instantiate(wallPrefab, new Vector3(boardDimensions.x + 1, y, 0), Quaternion.identity, wallParent);
         }
+    }
 
+    public void StartLevel()
+    {
         Camera mainCamera = Camera.main;
         mainCamera.transform.position =
             new Vector3((boardDimensions.x + 1) / 2f, (boardDimensions.y + 1) / 2f, mainCamera.transform.position.z);

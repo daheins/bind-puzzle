@@ -42,5 +42,6 @@ public class LevelManager : MonoBehaviour
         Level nextLevel = _levels[_currentLevelIndex];
         nextLevel.gameObject.SetActive(true);
         _currentLevel = nextLevel;
+        _currentLevel.StartLevel();
     }
 }

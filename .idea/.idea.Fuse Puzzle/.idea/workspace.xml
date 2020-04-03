@@ -2,221 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da716a8-85f9-43de-b122-11c2af0ec3ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_06.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_07.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Blocks/block_08.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_06.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_07.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_08.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_09.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_10.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_11.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_12.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_13.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_14.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_15.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_16.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_17.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_18.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_19.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_20.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_21.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_22.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_23.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_24.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_25.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_26.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_27.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_28.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_29.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_30.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_31.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_32.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_33.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_34.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_35.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_36.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_37.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_38.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_39.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_40.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_41.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_42.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_43.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_44.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Crates/crate_45.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_06.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_07.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_08.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_09.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_10.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_11.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_12.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_13.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_14.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_15.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Environment/environment_16.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Ground/ground_06.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_06.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_07.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_08.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_09.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_10.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_11.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_12.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_13.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_14.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_15.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_16.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_17.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_18.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_19.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_20.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_21.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_22.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_23.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/Player/player_24.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/playerFace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/playerFace.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/playerFace_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kenny_Sokoban/playerFace_dark.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fuse Puzzle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fuse Puzzle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Box.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Box.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LevelManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Goal.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Goal.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bindable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bindable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Goal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Goal.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Wall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Wall.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Level.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Level.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,8 +19,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35B11674-2FBF-4022-A981-AA51C75CBBAF/e1/8c0f2641/Input.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Wall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/Goal.prefab" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Goal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bindable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/36/f8b075df/Double.cs" root0="SKIP_HIGHLIGHTING" />
@@ -240,11 +33,12 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Level.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Level.cs" />
-        <option value="$PROJECT_DIR$/Assets/LevelManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bindable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Goal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Wall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelManager.cs" />
       </list>
     </option>
   </component>
@@ -287,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585853962501</updated>
-      <workItem from="1585853968382" duration="14940000" />
+      <workItem from="1585853968382" duration="15413000" />
     </task>
     <servers />
   </component>
