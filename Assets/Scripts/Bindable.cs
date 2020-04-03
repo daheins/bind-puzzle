@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[SelectionBase]
 public class Bindable : MonoBehaviour
 {
     private Collider2D _collider2D;

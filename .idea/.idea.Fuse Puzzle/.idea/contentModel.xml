@@ -10,6 +10,7 @@
           <e p="Goal.cs" t="Include" />
           <e p="Level.cs" t="Include" />
           <e p="Player.cs" t="Include" />
+          <e p="Wall.cs" t="Include" />
         </e>
       </e>
       <e p="Fuse Puzzle.sln" t="IncludeFlat" />
