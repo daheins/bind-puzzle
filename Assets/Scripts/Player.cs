@@ -7,6 +7,8 @@ using UnityEngine.UI;
 public class Player : MonoBehaviour
 {
     public Level level;
+    public SpriteRenderer spriteDefault;
+    public SpriteRenderer spriteAction;
     
     private KeyCode _actionKey = KeyCode.Z;
     private KeyCode _resetKey = KeyCode.R;
@@ -18,6 +20,7 @@ public class Player : MonoBehaviour
     void Start()
     {
         _collider = GetComponent<BoxCollider2D>();
+        UpdateSprites();
     }
     
     void Update()
@@ -63,6 +66,12 @@ public class Player : MonoBehaviour
         return _boundItems;
     }
 
+    private void UpdateSprites()
+    {
+        spriteDefault.enabled = !_isBound;
+        spriteAction.enabled = _isBound;
+    }
+
     public void SetCollidersActive(bool areCollidersActive)
     {
         _collider.enabled = areCollidersActive;
@@ -88,13 +97,20 @@ public class Player : MonoBehaviour
         foreach (Bindable item in items)
         {
             _boundItems.Add(item);
+            item.SetBound(true);
         }
         _isBound = true;
+        UpdateSprites();
     }
 
     public void UnbindAllItems()
     {
+        foreach (Bindable item in _boundItems)
+        {
+            item.SetBound(false);
+        }
         _boundItems.Clear();
         _isBound = false;
+        UpdateSprites();
     }
 }
