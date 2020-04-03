@@ -19,9 +19,10 @@ public class LevelManager : MonoBehaviour
         foreach (Transform levelObject in levelParent.transform)
         {
             Level level = levelObject.GetComponent<Level>();
-            level.gameObject.SetActive(false);
             _levels.Add(level);
         }
+        
+        levelParent.SetActive(false);
         
         StartNextLevel();
     }
@@ -35,13 +36,22 @@ public class LevelManager : MonoBehaviour
         
         if (_currentLevelIndex != -1)
         {
-            _currentLevel.gameObject.SetActive(false);
+            Debug.Log("destroying " + _currentLevel);
+            Destroy(_currentLevel.gameObject);
         }
 
         _currentLevelIndex += 1;
-        Level nextLevel = _levels[_currentLevelIndex];
-        nextLevel.gameObject.SetActive(true);
+        Level nextLevel = Instantiate(_levels[_currentLevelIndex]);
         _currentLevel = nextLevel;
         _currentLevel.StartLevel();
+    }
+
+    public void ResetLevel()
+    {
+        Destroy(_currentLevel.gameObject);
+        Level nextLevel = Instantiate(_levels[_currentLevelIndex]);
+        _currentLevel = nextLevel;
+        _currentLevel.StartLevel();
+        
     }
 }

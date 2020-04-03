@@ -9,6 +9,8 @@ public class Player : MonoBehaviour
     public Level level;
     
     private KeyCode _actionKey = KeyCode.Z;
+    private KeyCode _resetKey = KeyCode.R;
+    
     private bool _isBound;
     private readonly List<Bindable> _boundItems = new List<Bindable>();
     private Collider2D _collider;
@@ -43,6 +45,11 @@ public class Player : MonoBehaviour
         if (Input.GetKeyDown(_actionKey))
         {
             level.HandleAction();
+        }
+
+        if (Input.GetKeyDown(_resetKey))
+        {
+            LevelManager.instance.ResetLevel();
         }
     }
 
