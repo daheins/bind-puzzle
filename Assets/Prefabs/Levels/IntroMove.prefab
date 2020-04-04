@@ -114,6 +114,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   wallParent: {fileID: 7325659568770489316}
+  displayName: Intro
   wallPrefab: {fileID: 4138714311954873079, guid: 12a0f1edc833d4e77bde8b397fe7da91,
     type: 3}
   boardDimensions: {x: 7, y: 5}

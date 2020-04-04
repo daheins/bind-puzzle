@@ -125,6 +125,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   wallParent: {fileID: 1365789434245544972}
+  displayName: Wall
   wallPrefab: {fileID: 4138714311954873079, guid: 12a0f1edc833d4e77bde8b397fe7da91,
     type: 3}
   boardDimensions: {x: 5, y: 8}

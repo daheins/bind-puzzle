@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 1365789436080309645}
   - component: {fileID: 1365789436080309646}
   m_Layer: 0
-  m_Name: ZZZZZZ
+  m_Name: Lock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -134,6 +134,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   wallParent: {fileID: 1365789434245544972}
+  displayName: Lock
   wallPrefab: {fileID: 4138714311954873079, guid: 12a0f1edc833d4e77bde8b397fe7da91,
     type: 3}
   boardDimensions: {x: 7, y: 9}

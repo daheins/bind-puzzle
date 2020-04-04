@@ -7,12 +7,12 @@ using UnityEngine;
 public class Level : MonoBehaviour
 {
     public Transform wallParent;
+    public string displayName;
     
     public GameObject wallPrefab;
 
     public Vector2Int boardDimensions = new Vector2Int(10, 10);
 
-    private bool[,] _itemFillMatrix;
     private Player _player;
     private Goal _goal;
 
@@ -21,7 +21,6 @@ public class Level : MonoBehaviour
     
     private void Start()
     {
-        _itemFillMatrix = new bool[boardDimensions.x, boardDimensions.y];
         _player = GetComponentInChildren<Player>();
         if (_player == null)
         {

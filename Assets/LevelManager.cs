@@ -31,6 +31,7 @@ public class LevelManager : MonoBehaviour
     {
         if (_currentLevelIndex == _levels.Count - 1)
         {
+            UIManager.instance.victoryText.gameObject.SetActive(true);
             return;
         }
         
@@ -43,6 +44,12 @@ public class LevelManager : MonoBehaviour
         Level nextLevel = Instantiate(_levels[_currentLevelIndex]);
         _currentLevel = nextLevel;
         _currentLevel.StartLevel();
+        
+        // display
+        int levelIndex = _currentLevelIndex + 1;
+        int totalLevels = _levels.Count;
+        string levelName = _currentLevel.displayName;
+        UIManager.instance.levelText.text = "Level " + levelIndex + "/" + totalLevels + ": " + levelName;
     }
 
     public void ResetLevel()
