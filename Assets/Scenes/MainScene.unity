@@ -1232,7 +1232,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   levelText: {fileID: 2058041319}
-  victoryText: {fileID: 0}
+  victoryText: {fileID: 758817425}
 --- !u!1 &2058041317
 GameObject:
   m_ObjectHideFlags: 0
